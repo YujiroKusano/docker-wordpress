@@ -1,5 +1,5 @@
 # # MariaDBデータディレクトリを除外
-# db_data/
+db_data/
 
 # # wp_data ディレクトリ全体を無視
 # #wp_data/
