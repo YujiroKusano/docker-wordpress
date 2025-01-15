@@ -1,0 +1,22 @@
+# # MariaDBデータディレクトリを除外
+# db_data/
+
+# # wp_data ディレクトリ全体を無視
+# #wp_data/
+
+# # wp-content ディレクトリを例外に設定
+# # !wp_data/wp-content/
+
+# # # themes と plugins フォルダを例外に設定
+# # !wp_data/wp-content/themes/
+# # !wp_data/wp-content/plugins/
+
+# # my-custom-theme と my-custom-plugin を例外に設定
+# # !wp_data/wp-content/themes/my-custom-theme/
+# # !wp_data/wp-content/plugins/my-custom-plugin/
+
+# # 必要のないフォルダやファイルは引き続き無視
+# wp_data/wp-content/uploads/
+# wp_data/wp-content/cache/
+# wp_data/wp-content/upgrade/
+# wp_data/wp-content/backup-*/
