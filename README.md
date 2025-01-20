@@ -50,7 +50,6 @@ $ docker login -u [ユーザ名] #その後パスワード入力を求められ�
 ```
 ## Docker実行手順
 ```
-
 1.対象のディレクトリへ移動<br>
   ```cd [docker-compose.ymlと同列のパス]```<br>
 2. Dockerの起動<br>
