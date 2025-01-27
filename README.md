@@ -64,3 +64,7 @@ $ docker-compose down
 ```
 ## データのバックアップ方法
 ```docker exec <db_container_name> mysqldump -uwordpress -pwordpress wordpress > db_backup.sql```
+
+## 管理者画面URL
+https://yourdomain.com/wp-admin/
+
